@@ -6,7 +6,107 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="292bdb1e-fa58-455c-9ff5-0e9b481ffe3b" name="Default Changelist" comment="" />
+    <list default="true" id="292bdb1e-fa58-455c-9ff5-0e9b481ffe3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/css/paper-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/css/paper-dashboard.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/css/paper-dashboard.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/fonts/nucleo-icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/fonts/nucleo-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/fonts/nucleo-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/fonts/nucleo-icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/damir-bosnjak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/default-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/ayo-ogunseinde-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/ayo-ogunseinde-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/clem-onojeghuo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/clem-onojeghuo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/clem-onojeghuo-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/clem-onojeghuo-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/erik-lucatero-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/erik-lucatero-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/joe-gardner-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/joe-gardner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/kaci-baum-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/faces/kaci-baum-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/jan-sendereks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/logo-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/img/mike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/core/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/core/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/paper-dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/paper-dashboard.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/paper-dashboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/plugins/bootstrap-notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/plugins/chartjs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_animated-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_checkboxes-radio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_fixed-plugin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_nucleo-outline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_page-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_sidebar-and-main-panel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/cards/_card-chart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/cards/_card-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/cards/_card-plain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/cards/_card-stats.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/cards/_card-user.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_page-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_transparency.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/plugins/_plugin-animate-bootstrap-notify.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/assets/scss/paper-dashboard/plugins/_plugin-perfect-scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/docs/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/notifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/upgrade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/examples/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/nucleo-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper-dashboard-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Views/head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Views/head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/home-page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/home-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/vimcode.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/vimcode.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +123,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/coopmart-manager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -33,13 +133,15 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1V6fT98uYyfgZdqpjWLqWW7S51T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,19 +154,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/css" />
+      <recent name="$PROJECT_DIR$/web/assets" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/out/artifacts/coopmart_war_exploded/Views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/web/img/q" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/web/Views" />
       <recent name="$PROJECT_DIR$/web/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web/assets" />
-      <recent name="$PROJECT_DIR$/web" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/web/css" />
-      <recent name="$PROJECT_DIR$/out/artifacts/coopmart_war_exploded/Views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -84,6 +186,9 @@
       <method v="2" />
     </configuration>
     <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/web/index.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="vimcode.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/web/vimcode.jsp">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 9.0.301" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.301" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -162,10 +267,12 @@
     <list>
       <item itemvalue="JavaScript Debug.index.jsp" />
       <item itemvalue="JavaScript Debug.home-page.jsp" />
+      <item itemvalue="JavaScript Debug.vimcode.jsp" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.301" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.vimcode.jsp" />
         <item itemvalue="JavaScript Debug.home-page.jsp" />
         <item itemvalue="JavaScript Debug.index.jsp" />
       </list>
@@ -186,6 +293,8 @@
       <workItem from="1576635169294" duration="44055000" />
       <workItem from="1576817481021" duration="9238000" />
       <workItem from="1576841476647" duration="134000" />
+      <workItem from="1576900831833" duration="2399000" />
+      <workItem from="1576903413821" duration="200000" />
     </task>
     <servers />
   </component>

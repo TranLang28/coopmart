@@ -4,8 +4,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html lang="en">
-<jsp:include page="Views/head.jsp"/>
-
+<jsp:include page="Views/test.jsp"/>
 <body>
 
 <div class="wrapper fadeInDown">
@@ -31,8 +30,6 @@
                 <input type="submit" style="margin-right: 5px;" value="Đăng nhập">
             </div>
         </form>
-
-
     </div>
 </div>
 

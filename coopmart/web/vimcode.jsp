@@ -91,13 +91,15 @@
                                     <div class="col-md-3 pr-1">
                                         <div class="form-group">
                                             <label>Thời gian</label>
-                                            <input type="text" class="form-control" disabled="" placeholder="Từ ngày - Đến ngày" value="">
+                                            <input type="text" class="form-control" placeholder="Từ ngày - Đến ngày"
+                                                   value="">
                                         </div>
                                     </div>
-                                    <div class="col-md-3 px-1">
+                                    <div class="col-md-3 pr-1">
                                         <div class="form-group">
                                             <label>Trạng thái đơn hàng</label>
-                                            <input type="text" class="form-control" placeholder="Lựa chon trạng thái" value="">
+                                            <input type="text" class="form-control" placeholder="Lựa chon trạng thái"
+                                                   value="">
                                         </div>
                                     </div>
                                 </div>
@@ -105,94 +107,30 @@
                                     <div class="col-md-8 pr-1">
                                         <div class="form-group">
                                             <label>Từ khóa</label>
-                                            <input type="text" class="form-control" placeholder="Nhập mã giao dịch hoặc số điện thoại đặt hàng để tìm kiếm" value="">
+                                            <input type="text" class="form-control"
+                                                   placeholder="Nhập mã giao dịch hoặc số điện thoại đặt hàng để tìm kiếm"
+                                                   value="">
                                         </div>
                                     </div>
-                                    <div class="col-md-4 pl-1">
-                                        <div class="form-group">
-<%--                                            <input type="text" class="form-control" placeholder="Last Name" value="Faker">--%>
-                                            <input type="text" style="margin-right: 5px;" value="Đăng nhập">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label>Address</label>
-                                            <input type="text" class="form-control" placeholder="Home Address" value="Melbourne, Australia">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
                                     <div class="col-md-4 pr-1">
-                                        <div class="form-group">
-                                            <label>City</label>
-                                            <input type="text" class="form-control" placeholder="City" value="Melbourne">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 px-1">
-                                        <div class="form-group">
-                                            <label>Country</label>
-                                            <input type="text" class="form-control" placeholder="Country" value="Australia">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 pl-1">
-                                        <div class="form-group">
-                                            <label>Postal Code</label>
-                                            <input type="number" class="form-control" placeholder="ZIP Code">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label>About Me</label>
-                                            <textarea class="form-control textarea">Oh so, your weak rhyme You doubt I'll bother, reading into it</textarea>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="update ml-auto mr-auto">
-                                        <button type="submit" class="btn btn-primary btn-round">Update Profile</button>
+                                        <input type="submit" style="margin-right: 5px;"
+                                               value="Tìm kiếm">
                                     </div>
                                 </div>
                             </form>
                         </div>
                     </div>
-<%--                    <div class="card ">--%>
-<%--                        <div class="card-header ">--%>
-<%--                            <h5 class="card-title">Tra cứu đơn hàng</h5>--%>
-<%--                        </div>--%>
-<%--                        <div class="card-body ">--%>
-<%--                            <div class="row">--%>
-<%--                                <div class="col-4">--%>
-<%--                                    Thời gian (Từ ngày - Đến ngày)--%>
-<%--                                </div>--%>
-<%--                                <div class="col-4">--%>
-<%--                                    Trạng thái đơn hàng (Lựa chon trạng thái)--%>
-<%--                                </div>--%>
-<%--                            </div>--%>
-<%--                            <div class="row">--%>
-<%--                                <div class="col-8">--%>
-<%--                                    Từ khóa (Nhập mã giao dịch hoặc số điện thoại đặt hàng để tìm kiếm)--%>
-<%--                                </div>--%>
-<%--                                <div class="col-4">--%>
-<%--                                    <button>Tìm</button>--%>
-<%--                                </div>--%>
-<%--                            </div>--%>
-<%--                            <canvas id=chartHours width="400" height="100"></canvas>--%>
-<%--                        </div>--%>
-<%--                    </div>--%>
                 </div>
             </div>
         </div>
-
-        <script>
-            $(document).ready(function () {
-                // Javascript method's body can be found in assets/assets-for-demo/js/demo.js
-                demo.initChartsPages();
-            });
-        </script>
+    </div>
+</div>
+<%--<script>--%>
+<%--    $(document).ready(function () {--%>
+<%--        // Javascript method's body can be found in assets/assets-for-demo/js/demo.js--%>
+<%--        demo.initChartsPages();--%>
+<%--    });--%>
+<%--</script>--%>
 </body>
 
 </html>
